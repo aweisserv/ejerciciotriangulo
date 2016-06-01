@@ -1,4 +1,4 @@
-package Trunk;
+package javaapplication1.Trunk;
 
 public class Triangulo{
 	int lado1;

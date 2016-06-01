@@ -1,4 +1,4 @@
-package Trunk;
+package javaapplication1.Trunk;
 import java.util.Scanner;
 
 public class main {
